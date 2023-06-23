@@ -1,0 +1,656 @@
+@import "reset.css";
+
+
+.logo {
+  position: absolute;
+  height: 9.38vw;
+  width: 25.16vw;
+  left: 4.53vw;
+  top: 3.83vw;
+}
+
+.button1 {  /* переход на форму*/
+  position: absolute;
+  left: 38.28vw;
+  top: 34.69vw;
+}
+
+
+.a1 {
+  position: absolute;
+  left: 83.28vw;
+  top: 15.39vw;
+}
+.a2 {
+  position: absolute;
+  left: 17.50vw;
+  top: 50.63vw;
+}
+.a3 {
+  position: absolute;
+  left: 65.86vw;
+  top: 54.06vw;
+}
+.line {
+  position: absolute;
+  left: 4.69vw;
+  top: 61.48vw;
+}
+.a4 {
+  position: absolute;
+  left: 8.67vw;
+  top: 37.34vw;
+}
+.a5 {
+  position: absolute;
+  left: 72.73vw;
+  top: 41.41vw;
+}
+.a6 {
+  position: absolute;
+  left: 9.14vw;
+  top: 21.25vw;
+}
+.a7 {
+  position: absolute;
+  left: 86.17vw;
+  top: 27.89vw;
+}
+.a8 {
+  position: absolute;
+  left: 50.94vw;
+  top: 8.36vw;
+}
+.a9 {
+  position: absolute;
+  left: 43.05vw;
+  top: 46.25vw;
+}
+.a11 {
+  position: absolute;
+  left: 25vw;
+  top: 39.30vw;
+}
+.a10 {
+  position: absolute;
+  left: 87.81vw;
+  top: 46.25vw;
+}
+
+.h1 {
+  position: absolute;
+  left: 20.47vw;
+  top: 16.80vw;
+}
+
+.main {
+  position: absolute;
+  margin-left: 20.47vw;
+  margin-top: 16.80vw;
+  font-size: 5.47vw;
+/*  line-height: 6.41vw; */
+  text-align: center;
+}
+
+
+.logo1 {
+  position: absolute;
+  height: 9.38vw;
+  width: 25.16vw;
+  left: 4.53vw;
+  top: 3.83vw;
+}
+
+.cross {
+  position: absolute;
+  left: 90.78vw;
+  top: 5vw;
+}
+
+.forma {
+  position:relative;
+  margin-left: 38.28vw;
+  margin-top: 34.69vw;
+}
+
+.zapis{
+  position: absolute;
+  left: 4.69vw;
+  top: 2.50vw;
+}
+
+.zappic {
+  position: absolute;
+  left: 4.69vw;
+  top: 16.88vw;
+}
+
+.zapkn{
+  position: absolute;
+  left: 50vw;
+  top: 40vw;
+}
+
+.name {
+  position: absolute;
+  left: 50vw;
+  top: 30vw;
+}
+
+.text1 {
+  position: absolute;
+  margin-left: 50vw;
+  margin-top: 20vw;
+  font-size: 1.56vw;
+  text-align: center;
+}
+
+.form{
+    font-size: 1.56vw;
+
+}
+
+ .line {
+  position: absolute;
+  left: 4.69vw;
+  top: 13vw;
+}
+.line2 {
+ position: absolute;
+ left: 4.69vw;
+ top: 53vw;
+}
+
+.menubar{
+  position: absolute;
+  text-decoration: none;
+    margin-top: 2.60vw;
+      font-size: 2vw;
+    text-align: center;
+    text-decoration: none;
+    text-align:center;
+    font-family: "Roboto Slab", sans-serif;
+
+}
+
+.about {
+  position: relative;
+  text-decoration: none;
+  margin-left: 35vw;
+  top: 2vw;
+
+}
+
+.shop {
+  position: absolute;
+  text-decoration: none;
+  margin-left: 43vw;
+  top:2vw;
+  text-decoration: none;
+
+}
+
+.news {
+  position: absolute;
+  text-decoration: none;
+  margin-left: 56vw;
+  top: 2vw;
+  text-decoration: none;
+
+}
+.game {
+  position: absolute;
+  text-decoration: none;
+  margin-left: 69vw;
+  top: 2vw;
+  text-decoration: none;
+
+}
+
+.radio {
+  position: absolute;
+  text-decoration: none;
+  margin-left: 78vw;
+  top: 2vw;
+  text-decoration: none;
+}
+
+.clients {
+  position: absolute;
+  text-decoration: none;
+  margin-left: 88vw;
+  top: 2vw;
+  text-decoration: none;
+}
+
+.cpp {
+  position: absolute;
+  margin-left: 4.65vw;
+  margin-top: 17.36vw;
+  font-size: 3vw;
+  text-align: left;
+}
+
+.mp {
+  position: absolute;
+  font-style: light;
+  margin-left: 4.65vw;
+  margin-top: 48vw;
+  font-size: 1.55vw;
+  text-align: left;
+}
+
+.line2 {
+  position: absolute;
+  left: 4.69vw;
+  top: 55vw;
+}
+
+.rbn {
+  position: absolute;
+  font-style: light;
+  margin-left: 4.65vw;
+  margin-top: 60vw;
+  font-size: 1.55vw;
+  text-align: left;
+}
+
+.build {
+  position: absolute;
+  left: 8vw;
+  top: 75vw;
+}
+
+.img1{
+  position: absolute;
+  left: 4.65vw;
+  top: 75vw;
+}
+
+.line3 {
+  position: absolute;
+  left: 4.69vw;
+  top: 130vw;
+}
+
+.podr {
+  position: absolute;
+  font-style: light;
+  margin-left: 4.65vw;
+  margin-top: 135vw;
+  font-size: 4vw;
+  text-align: left;
+}
+
+.img2{
+  position: absolute;
+  left: 4.65vw;
+  top: 150vw;
+}
+
+.kupit {
+  position: absolute;
+  left: 40vw;
+  top: 205vw;
+}
+
+
+.logo2 {
+  position: absolute;
+  height: 9.38vw;
+  width: 25.16vw;
+  left: 4.53vw;
+  top: 3.83vw;
+}
+
+.paper {
+  position: absolute;
+  left: 13.98vw;
+  top: 20.70vw;
+}
+
+.promo {
+  position: absolute;
+  left: 55vw;
+  top: 20.70vw;
+}
+
+.knopprom {
+  position: absolute;
+  left: 55vw;
+  top: 40vw;
+}
+
+.line4 {
+  position: absolute;
+  left: 4.69vw;
+  top: 50vw;
+}
+
+.terap {
+  position: absolute;
+  left: 4.69vw;
+  top: 55vw;
+}
+
+
+.logo3 {
+  position: absolute;
+  height: 9.38vw;
+  width: 25.16vw;
+  left: 4.53vw;
+  top: 3.83vw;
+}
+
+
+/* игра */
+
+.img11 {
+  padding-top: 100px;
+  padding-left: 57px
+}
+
+.img21 {
+position: absolute;
+left: 932px;
+top: 596px;
+}
+.img21 {
+  display: inline-block;
+
+}
+.img21 img {
+  transition: 1s;
+  display: block;
+}
+.img21 img:hover {
+  transform: scale(1.2);
+}
+
+.txt1 {
+  position: absolute;
+  font-size: 64px;
+  left: 795px;
+  top: 318px;
+}
+
+.gala1 {
+  position: absolute;
+  left: 814px;
+  top: 976px;
+}
+
+.img31 {
+  position: absolute;
+  left: 54px;
+  top: 1101px;
+}
+
+.line11 {
+  position: absolute;
+  left: 102px;
+  top: 1768px;
+}
+
+.txt2 {
+  position: absolute;
+  font-size: 40px;
+  left: 175px;
+  top: 1185px;
+  align-content: center;
+}
+
+.gala2 {
+  position: absolute;
+  left: 1157px;
+  top: 2414px;
+}
+
+.img4 {
+  position: absolute;
+  left: 721px;
+  top: 2383px;
+
+}
+
+.heart {
+  position: absolute;
+  left: 61px;
+  top: 1961px;
+}
+
+.line2 {
+  position: absolute;
+  left: 102px;
+  top: 2713px;
+}
+
+.txt3 {
+  position: absolute;
+  font-size: 40px;
+  left: 760px;
+  top: 2438px;
+
+}
+
+.txt4 {
+  position: absolute;
+  font-size: 24px;
+  left: 102px;
+  top: 2670px;
+}
+
+.element1 {
+ position: absolute;
+  left: 315px;
+  top: 1868px;
+}
+.element2 {
+ position: absolute;
+  left: 1118px;
+  top: 1990px;
+}
+.element3 {
+ position: absolute;
+  left: 689px;
+  top: 2092px;
+}
+
+.element4 {
+ position: absolute;
+  left: 559px;
+  top: 1846px;
+}
+
+.element5 {
+ position: absolute;
+  left: 879px;
+  top: 1948px;
+}
+
+.gala3 {
+  position: absolute;
+   left: 824px;
+   top: 2867px;
+}
+
+.img51 {
+  position: absolute;
+   left: 51px;
+   top: 2805px;
+}
+
+.r2 {
+  position: absolute;
+   left: 109px;
+   top: 3254px;
+}
+
+.r2 {
+  display: inline-block;
+
+}
+.r2 img {
+  transition: 1s;
+  display: block;
+}
+.r2 img:hover {
+  transform: scale(1.2);
+}
+
+
+.r3 {
+  position: absolute;
+   left: 109px;
+   top: 3452px;
+}
+
+.r3 {
+  display: inline-block;
+
+}
+.r3 img {
+  transition: 1s;
+  display: block;
+}
+.r3 img:hover {
+  transform: scale(1.2);
+}
+
+.r1 {
+  position: absolute;
+  left: 96px;
+  top: 3338px;
+}
+
+.r1 {
+  display: inline-block;
+
+}
+.r1 img {
+  transition: 1s;
+  display: block;
+}
+.r1 img:hover {
+  transform: scale(1.2);
+}
+
+.txt5 {
+  position: absolute;
+  font-size: 40px;
+  left: 171px;
+  top: 2925px;
+}
+
+.bl{
+  position: absolute;
+  font-size: 40px;
+  left: 209px;
+  top: 3253px;
+}
+.zl{
+  position: absolute;
+  font-size: 40px;
+  left: 209px;
+  top: 3351px;
+}
+.nn{
+  position: absolute;
+  font-size: 40px;
+  left: 209px;
+  top: 3451px;
+}
+.line3 {
+  position: absolute;
+  left: 102px;
+  top: 3662px;
+}
+
+.gala {
+  position: absolute;
+  left: 1030px;
+  top: 4182px;
+}
+
+.bin {
+  position: absolute;
+  left: 296px;
+  top: 4174px;
+}
+
+.pic {    /* прописать js */
+  position: absolute;
+  left: 234px;
+  top: 3840px;
+}
+
+.line41{
+  position: absolute;
+  left: 102px;
+  top: 4677px;
+}
+
+.img61 {
+  position: absolute;
+  left: 644px;
+  top: 3808px;
+}
+
+.txt6 {
+  position: absolute;
+  font-size: 40px;
+  left: 760px;
+  top: 3873px;
+}
+
+.txt7 {
+  position: absolute;
+  font-size: 24px;
+  left: 102px;
+  top: 4628px;
+}
+
+.gala22 {
+  position: absolute;
+  left: 1030px;
+  top: 5207px;
+}
+
+.mss {  /* прописать js */
+  position: absolute;
+  left: 142px;
+  top: 5234px;
+}
+
+.pp4 {
+  position: absolute;
+  left: 643px;
+  top: 4833px;
+}
+
+.line5 {
+  position: absolute;
+  left: 102px;
+  top: 5709px;
+}
+
+.txt8 {
+  position: absolute;
+  font-size: 40px;
+  left: 690px;
+  top: 4923px;
+}
+.txt9 {
+  position: absolute;
+  font-size: 24px;
+  left: 102px;
+  top: 5664px;
+}
+
+.logo4 {
+  position: absolute;
+  height: 9.38vw;
+  width: 25.16vw;
+  left: 4.53vw;
+  top: 3.83vw;
+}

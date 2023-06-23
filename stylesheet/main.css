@@ -1,0 +1,19 @@
+@import "reset.css";
+@import "content.css";
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: local("Roboto Slab Regular"),
+    local("Roboto Slab Regular"),
+    url("Roboto_Slab-webfont.woff2") format("woff2"),
+    url("Roboto_Slab-webfont.woff") format("woff"),
+    url("Roboto_Slab-webfont.svg") format("svg");
+  font-weight: normal;
+}
+
+body {
+  font-family: "Roboto Slab", sans-serif;
+/*  Font size: 5.47vw;
+  Line height: 6.41vw; */
+  align-content: center;
+}
